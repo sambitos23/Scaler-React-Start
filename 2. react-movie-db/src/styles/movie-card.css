@@ -4,4 +4,7 @@
   background-color: #28415a;
   text-align: center;
   font-weight: bold;
+  color: #fff;
+  text-decoration: inherit;
+  padding-bottom: 0.6rem;
 }

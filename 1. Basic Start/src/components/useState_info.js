@@ -23,8 +23,8 @@ export default UseStateInfo;
 // Cool array structure in JS
 /**
  * const arr = [1,2,3,4]
- * const firstVal = arr[0]; // firstVal -> 1
- * const [firstVal, secondVal] = arr; // 1, 2
+ * const firstVal = arr[0]; // firstVal -> 1 => old way to do
+ * const [firstVal, secondVal] = arr; // 1, 2 => fancy way to do
  */
 
 // Object Structure
