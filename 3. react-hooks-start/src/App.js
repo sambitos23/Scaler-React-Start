@@ -5,6 +5,7 @@ import {
   Theme,
   UseRef,
   UseMemo,
+  UseReducer,
 } from "./Components";
 
 function App() {
@@ -43,6 +44,12 @@ function App() {
         useMemo -> memorization do fib function memoization.
        */}
       <UseMemo />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <UseReducer />
       <br />
       <br />
       <br />

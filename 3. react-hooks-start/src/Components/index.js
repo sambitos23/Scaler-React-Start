@@ -3,3 +3,4 @@ export { default as ContextComponent } from "./Context";
 export { default as UseRef } from "./UseRef";
 export { default as PrevStateRef } from "./PrevStateRef";
 export { default as UseMemo } from "./UseMemo";
+export { default as UseReducer } from "./UseReducer";
